@@ -1,0 +1,30 @@
+GET /spring-rest-demo/api/shippers
+Host: localhost:8080
+Accept: application/json
+
+###
+GET /spring-rest-demo/api/shippers
+Host: localhost:8080
+Accept: application/xml
+
+###
+GET /spring-rest-demo/api/shippers/2
+Host: localhost:8080
+Accept: application/json
+
+###
+GET /spring-rest-demo/api/shippers/3
+Host: localhost:8080
+Accept: application/xml
+
+###
+GET /spring-rest-demo/api/shippers/22
+Host: localhost:8080
+Accept: application/json
+
+###
+GET /spring-rest-demo/api/shippers/32
+Host: localhost:8080
+Accept: application/xml
+
+###
